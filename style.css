@@ -1,0 +1,70 @@
+
+body{
+    background-color: #eeeeee;
+    background-image: url(img/foodiesfeed-cake2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    height: 120px;
+    text-align: center;
+}
+nav{
+    background-color: rgba(83, 66, 81, 0.733);
+    /* height: 40px; */
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+   
+}
+main{
+    height: 400px;
+    text-align: center;
+    /* margin-top: 80px; */
+    padding-top: 40px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer{
+    background-color: rgba(83, 66, 81, 0.733);
+    /* height: 100px; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 84px;
+    color: rgb(247, 2, 173);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px rgb(233, 102, 189);
+}
+p{
+    font-size: 18px;
+    color: rgb(226, 226, 226);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    font-size: 18px;
+    color: rgb(226, 226, 226);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(223, 3, 157);;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(201, 201, 201);
+}
+.maps{
+    padding-bottom: 100px;
+    text-align: center;
+}

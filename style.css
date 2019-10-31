@@ -40,7 +40,7 @@ h1{
     font-size: 84px;
     color: rgb(247, 2, 173);
     font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 1px 1px rgb(233, 102, 189);
+    /* text-shadow: 1px 1px rgb(233, 102, 189); */
 }
 p{
     font-size: 18px;
